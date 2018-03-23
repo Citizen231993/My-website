@@ -532,7 +532,7 @@ Although there are differences between the KA and the current use of SM by the I
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
-  
+
 <h1><u>Current threat from The Islamic State</u></h1>
   &nbsp;&nbsp;
 <p>
@@ -599,6 +599,19 @@ Although there are differences between the KA and the current use of SM by the I
 
 
 
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <img src="https://media.licdn.com/dms/image/C5603AQFY74hmBVEOBw/profile-displayphoto-shrink_200_200/0?e=1526979600&v=alpha&t=4UbbYzJcl7M54R_QZXFakBt9aT-nfdfhiDnonjGtMAo" class="w3-circle" alt="Norway" style="width:50%">
+</div>
+
+</body>
+</html>
 
 
 
